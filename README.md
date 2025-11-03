@@ -3,7 +3,7 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 ## Available Wheels
 
-### RTX 30 Series (Ampere - sm_86)
+### RTX 30 Series & Ampere Professional (Ampere - sm_86)
 **Supported GPUs:** RTX 3060, RTX 3060 Ti, RTX 3070, RTX 3070 Ti, RTX 3080, RTX 3080 Ti, RTX 3090, RTX 3090 Ti, RTX A2000, RTX A4000, RTX A4500, RTX A5000, RTX A5500, RTX A6000
 
 | File | Python | CUDA | Driver | Size |
