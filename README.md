@@ -56,7 +56,6 @@ Built with:
 - Visual Studio 2019/2022 Build Tools
 - CUDA Toolkit 11.8, 12.1, 13.0
 - CMAKE_CUDA_ARCHITECTURES=86 (Ampere) or 89 (Ada)
-- 12+ hour marathon debugging session 😅
 
 ## License
 MIT
